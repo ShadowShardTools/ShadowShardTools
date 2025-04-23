@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="center">My main workflow:</h2>
+<h2 align="center">Workflow</h2>
 
 ###
 
